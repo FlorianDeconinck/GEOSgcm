@@ -81,8 +81,8 @@ FVdycoreCubed_GridComp:
 fvdycore:
   local: ./src/Components/@GEOSgcm_GridComp/GEOSagcm_GridComp/GEOSsuperdyn_GridComp/@FVdycoreCubed_GridComp/@fvdycore
   remote: git@github.com:GEOS-ESM/GFDL_atmos_cubed_sphere.git
-  tag: geos/v2.9.1
-  develop: geos/dsl/develop
+  tag: geos/dsl/develop
+  develop: geos/develop
 
 pyFV3:
   local: ./src/Components/@GEOSgcm_GridComp/GEOSagcm_GridComp/GEOSsuperdyn_GridComp/@FVdycoreCubed_GridComp/python/@pyFV3
