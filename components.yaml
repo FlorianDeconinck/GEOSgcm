@@ -245,7 +245,7 @@ umwm:
 GEOSgcm_App:
   local: ./src/Applications/@GEOSgcm_App
   remote: git@github.com:GEOS-ESM/GEOSgcm_App.git
-  tag: v2.3.15
+  tag: feature/dsl/enable_DSL_with_USE_DSL_ev
   develop: develop
 
 UMD_Etc:
